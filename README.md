@@ -16,7 +16,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/ay"
-        android:label="mdinalayubi"
+        android:label="hegarr"
         android:roundIcon="@drawable/ay"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloToast">
