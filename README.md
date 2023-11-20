@@ -766,7 +766,7 @@ public class MainToast extends AppCompatActivity {
 ![Gambar](gambar/pm9.jpg)
 ## ```Home```
 ![Gambar](gambar/pm1.png)
-## ```Hello Toas```
+## ```Hello Toast```
 ![Gambar](gambar/pm6.jpg)
 ## ```Count```
 ![Gambar](gambar/pm3.jpg)
